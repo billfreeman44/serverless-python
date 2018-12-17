@@ -18,6 +18,8 @@ twine = "~=1.12.1"
 wheel = "~=0.32.3"
 
 [packages]
+numpy = "~=1.15.4"
+scipy = "~=1.1.0"
 
 [requires]
 python_version = "3.7"
